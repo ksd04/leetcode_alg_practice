@@ -1,7 +1,7 @@
 # leetcode_alg_practice
 
 [0001 两数之和][1]，2020-02-28
-0002 两数相加
+[0002 两数相加][2], 2020-03-02
 0003 无重复字符的最长子串
 0004 寻找两个有序数组的中位数
 0005 最长回文子串
@@ -1259,3 +1259,4 @@ LCP_4 覆盖
 LCP_5 发 LeetCoin
 
 [1]:https://github.com/ksd04/leetcode_alg_practice/blob/master/0001_Two_Sum.md
+[2]:https://github.com/ksd04/leetcode_alg_practice/blob/master/0002_Add_Two_Numbers.md
